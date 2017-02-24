@@ -1,0 +1,7 @@
+happy:행복한
+book:책
+hello:안녕
+finish:
+finish:끝나다
+program:프로그램
+hell:지옥
